@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://prashant-sharma.vercel.app/))
+![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
