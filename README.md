@@ -1,4 +1,4 @@
-![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
+![MasterHead](https://www.nitorinfotech.com/wp-content/uploads/2022/06/Business-Process-Automation.gif)
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
