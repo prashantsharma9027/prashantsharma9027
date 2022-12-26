@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/82Rv.gif)
+
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
