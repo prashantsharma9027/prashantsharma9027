@@ -1,6 +1,11 @@
 ![MasterHead](https://www.nitorinfotech.com/wp-content/uploads/2022/06/Business-Process-Automation.gif)
-<h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Welcome to My Github Profile</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=800080&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Prashant+Sharma;_Aspiring+Software+Engineer;MERN+Developer">
+</p>
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
