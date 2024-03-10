@@ -72,16 +72,12 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=prashantsharma9027&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prashantsharma9027&theme=radical&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br>
 
