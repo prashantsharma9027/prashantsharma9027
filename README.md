@@ -6,7 +6,7 @@ Full-Stack Developer & AI Engineer specializing in building scalable SaaS produc
 
 ### 🚀 About Me
 
-- 💻 **Experience**: 1.8+ years in engineering production-grade systems.
+- 💻 **Experience**: 2 years in engineering production-grade systems.
 - 🤖 **AI Focus**: Architecting RAG pipelines, LLM agents, and integrating real-time voice modules (ElevenLabs, Deepgram).
 - ⚡ **Performance**: Obsessed with speed—delivering <500ms latency modules and 95+ Lighthouse scores.
 - 🎯 **Recent Focus**: Multi-tenant systems, programmatic routing, and developer-centric tools.
